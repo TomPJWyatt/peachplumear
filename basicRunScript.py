@@ -1,5 +1,5 @@
 import tkinter as tk
-import gui as gui
+import gui
 
 root = tk.Tk()
 g0 = gui.GUI(root)

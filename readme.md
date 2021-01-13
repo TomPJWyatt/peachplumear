@@ -1,4 +1,4 @@
-ChordProgTrainer
+PeachPlumEar
 ================
 
 This programme provides a simple user interface which helps you train your ear to musical intervals by generating and playing 'challenges'.
@@ -15,7 +15,7 @@ You can also control:
 - the bpm of the play back
 - which intervals can be included in the challenge
 - whether to include chord inversions
-- whether to change key for the next challenge or note
+- whether to change key for the next challenge or not
 
 The user interface also allows you to play the notes of the scale over 2 octaves.
 
